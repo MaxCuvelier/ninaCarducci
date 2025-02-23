@@ -19,11 +19,11 @@ body {
 }
 
 .carousel-control-next-icon {
-	color: #ff0000f6; !important
+	color: #fffffff6;
 }
 
 .visually-hidden {
-	color: black;
+	color: rgb(0, 0, 0);
 }
 
 .top-header .name {
